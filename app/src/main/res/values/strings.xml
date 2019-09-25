@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Really bad app name</string>
+    <string name="login_hint">Your login</string>
+    <string name="peaceful_message">Get the fuck out of here, faggot!</string>
+    <string name="password_hint">Your password</string>
+    <string name="login_btn">Login</string>
+</resources>
